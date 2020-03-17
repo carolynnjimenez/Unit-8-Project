@@ -1,0 +1,11 @@
+img {
+    width: 50%;
+}
+
+.rotate {
+    transform: rotate(90deg);
+}
+
+.result{
+    display: flex;
+}
